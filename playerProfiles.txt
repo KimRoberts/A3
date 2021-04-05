@@ -1,0 +1,6 @@
+Billy,1,0,2
+Asinsa,2,1,3
+Kim,3,12,1
+James,4,7,2
+JohnCena,5,0,0
+ioijgfjfg,6,0,0

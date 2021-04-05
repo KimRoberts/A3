@@ -1,0 +1,25 @@
+10,10
+3
+0,1,corner,0,true
+9,1,line,1,true
+0,7,line,1,true
+0,9,line,1,true
+1,7,line,1,true
+1,8,line,1,true
+1,9,line,1,true
+5,5,goal,0,true
+9,7,line,1,true
+9,8,line,1,true
+9,9,line,1,true
+player01,1,1,1, idk
+player 02,2,2,2,characterdesc
+player03,3,3,3, idk
+player 04,4,4,4,characterdesc
+corner,false,50
+tshape,false,50
+line,false,50
+effect,fire,10
+effect,ice,10
+effect,doublemove,10
+effect,backtrack,10
+#

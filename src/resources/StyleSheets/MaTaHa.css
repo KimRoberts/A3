@@ -1,0 +1,41 @@
+.root {
+    -fx-font-family: "Comic Sans MS";
+    -fx-font-size: 16;
+    -fx-font-weight: 600;
+    -fx-background-color: #abf1ec
+}
+
+.button {
+    -fx-background-color: #636363;
+    -fx-padding: 10;
+    -fx-border-radius: 190px;
+    -fx-text-fill: #ffffff;
+}
+
+.toggle-button {
+    -fx-background-color: #929191;
+    -fx-padding: 10;
+    -fx-border-radius: 190px;
+    -fx-text-fill: #ffffff;
+}
+
+.toggle-button:selected {
+    -fx-background-color: #454545;
+}
+
+
+
+#title {
+    -fx-font-size: 25;
+}
+.titledPane{
+    -fx-padding: 0em;
+    -fx-spacing: 0;
+    -fx-fit-to-height: true;
+    -fx-border: 0em;
+    -fx-conent: 0em;
+}
+.mute{
+    -fx-padding: 0em;
+    -fx-spacing: 0em;
+}
